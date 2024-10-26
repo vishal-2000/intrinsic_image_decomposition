@@ -7,3 +7,6 @@
 [submodule "act"]
 	path = act
 	url = https://github.com/tonyzhaozh/act.git
+[submodule "recoloring_data_gen"]
+	path = recoloring_data_gen
+	url = https://github.com/vishal-2000/recoloring_data_gen.git

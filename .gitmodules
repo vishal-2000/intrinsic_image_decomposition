@@ -4,3 +4,6 @@
 [submodule "FastSAM"]
 	path = FastSAM
 	url = https://github.com/CASIA-IVA-Lab/FastSAM.git
+[submodule "act"]
+	path = act
+	url = https://github.com/tonyzhaozh/act.git
